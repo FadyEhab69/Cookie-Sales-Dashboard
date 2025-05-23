@@ -42,7 +42,8 @@ Before: Country: India, Product: Chocolate Chip, Date: 43770, Units Sold: 1725, 
 After: Country: India, Product: Chocolate Chip, Date: 2019-09-05, Units Sold: 1725, Revenue: 8625, Cost: 3450, Profit: 5175
 # Dashboard Creation and Insights
 Dashboard Design
-The Excel dashboard, titled "Cookie By Company," features:
+The Excel dashboard, titled "Cookie By Company," 
+features:
 
 Profit by Product in Month: A line chart tracking monthly profit trends for each product (e.g., Chocolate Chip peaked at ~60,000 in December 2019).
 Profit by Product & Country: A bar chart comparing profit across countries for each product, highlighting India’s dominance in Chocolate Chip (227,529).
